@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fortune Teller</string>
+    <string name="edit_message">Enter Text</string>
+    <string name="button_testluck">Send</string>
+    <string name="open_message">Use me now for your free fortune prediction! Press "Done" when finish</string>
+    <string name="real_question">Ask me a real question</string>
+    <string name="fortune_done">Done</string>
+    <string name="hellen_vision">Hellen Keller Vision</string>
+    <string name="builder_title">A Little Motivation</string>
+    <string name="builder_message">You control your destiny. All you need is a vision
+    and desire to make that vision a reality</string>
+    <string name="talk_button">Talk</string>
+
+</resources>
